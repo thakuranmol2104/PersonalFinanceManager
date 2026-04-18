@@ -1,0 +1,12 @@
+# Compiled files
+out/
+
+# JavaFX SDK (BIG FILE - don't upload)
+javafx-*/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

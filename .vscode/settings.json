@@ -1,0 +1,9 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/Users/Anmol Thakur/Desktop/Project_java/javafx-26_windows-x64_bin-sdk/javafx-sdk-26/lib/**/*.jar"
+  ],
+  "java.project.sourcePaths": [
+    "src"
+  ],
+  "java.project.outputPath": "out"
+}

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run JavaFX",
+      "request": "launch",
+      "mainClass": "personalfinance.Main",
+      "vmArgs": "--enable-native-access=javafx.graphics --module-path \"C:/Users/Anmol Thakur/Desktop/Project_java/javafx-26_windows-x64_bin-sdk/javafx-sdk-26/lib\" --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
